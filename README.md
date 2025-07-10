@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/sohaibessa797/SmartBookingSystem.API/blob/213e52192496dc0040ac997b8a06a81897fa4aee/Banner.png" alt="SmartBookingSystem" />
 </p>
+
 # 📂 SmartBookingSystem -  ASP.NET Core Web API
 
 SmartBookingSystem is a modern, robust, and extensible platform designed to streamline appointment-based service booking. Built with ASP.NET Core and Entity Framework Core, it offers an end-to-end solution that empowers service providers to manage their profiles, services, schedules, and customer interactions — while delivering a smooth and intuitive booking experience for customers. 
