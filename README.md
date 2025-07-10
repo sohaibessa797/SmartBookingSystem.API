@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohaibessa797/SmartBookingSystem.API/main/banner.png" alt="SmartBookingSystem" />
+  <img src="https://github.com/sohaibessa797/SmartBookingSystem.API/blob/0c6f79dcf54f196a59bd934a92d155bc9ef8dc1f/banner.png" alt="SmartBookingSystem" />
 </p>
 # 📂 SmartBookingSystem -  ASP.NET Core Web API
 
