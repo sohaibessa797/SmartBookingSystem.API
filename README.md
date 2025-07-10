@@ -111,3 +111,16 @@ git clone https://github.com/sohaibessa797/SmartBookingSystem.API.git
 * No frontend included – backend API only.
 * Easily integrable with any frontend (Web, Mobile, etc.)
 * For production: secure using HTTPS, environment variables, and strict role-based policies.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork, open issues, or submit pull requests.
+
+---
+
+## 📫 Contact
+
+Created by [@sohaibessa797](https://github.com/sohaibessa797) – feel free to connect!
+
