@@ -82,21 +82,27 @@ Users are connected to exactly one role at a time via the `ApplicationUser` enti
 - SQL Server or LocalDB – for database storage
 - Visual Studio 2022+ or Visual Studio Code – for development
 
-### Installation & Run
-
+### 🚀 Installation & Run
+1. Clone the repository:
 ```bash
 git clone https://github.com/sohaibessa797/SmartBookingSystem.API.git
-cd SmartBookingSystem.API
+ ```
 
-# Restore packages
-dotnet restore
+2. Update your `appsettings.json` with your database connection string.
 
-# Apply migrations
-dotnet ef database update
+3. Apply EF Core migrations:
 
-# Run the application
-dotnet run
-```
+   ```bash
+   dotnet ef database update
+   ```
+
+4. Run the project:
+
+   ```bash
+   dotnet run
+   ```
+
+5. Use Postman or Swagger to test the endpoints.
 
 ---
 
